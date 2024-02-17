@@ -1,2 +1,2 @@
-# CCL
-Cross-layer Contrastive Learning of Latent Semantics for Facial Expression Recognition
+# Cross-layer Contrastive Learning of Latent Semantics for Facial Expression Recognition
+
